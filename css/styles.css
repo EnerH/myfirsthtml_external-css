@@ -1,0 +1,16 @@
+
+body{
+    background-color: #ffebb787;
+}
+
+hr{
+    border-top-style: dotted;
+    border-bottom-style: none;
+    border-left-style: none;
+    border-right-style: none;
+    background-color: none;
+    border-width: 5px;
+    width: 05%;
+    color: rgba(103, 203, 178, 0.586);
+}
+
